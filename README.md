@@ -31,7 +31,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 Este projeto tem como objetivo ensinar a utilizar a plataforma GitHub, visando:
 * Centralizar os trabalhos e projetos;
 * Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
+* Supervisionar e controlar as alterações;
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
 
