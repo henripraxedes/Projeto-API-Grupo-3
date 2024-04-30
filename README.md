@@ -163,5 +163,6 @@ Requisitos não funcionais
 
 </details>
 
-![llllll](https://github.com/henripraxedes/Projeto-API-Grupo-3/assets/165793422/65d44007-7adf-4bcc-9187-867e8ef8fb36)
+
+
 
