@@ -42,9 +42,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 > Jira Software
 
-> Powerbi
+> Power bi
 
-> Kanvas
+> Canvas
   
  ### Tecnologias da Informação
  > Google Academy
