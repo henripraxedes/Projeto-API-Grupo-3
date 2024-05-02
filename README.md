@@ -82,7 +82,7 @@ Requisitos não funcionais
   
 <div align="center">
     
-![product backlog](https://github.com/henripraxedes/Projeto-API-Grupo-3/blob/main/backlog%20do%20produto/backlog.pdf)
+![product backlog](https://github.com/henripraxedes/Projeto-API-Grupo-3/blob/main/backlog%20do%20produto/Captura%20de%20tela%202024-05-02%20115138.png)
 ![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
 </div>
 
