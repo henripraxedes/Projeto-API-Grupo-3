@@ -109,6 +109,10 @@ Requisitos não funcionais
 - [ ] Treinamento com os alunos;
 - [ ] Monitoramento e ajustes.
       
+# Apresentação das Sprints
+#### Apresentação da Sprint 1 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20Slide%201.pdf)
+#### Apresentação da Sprint 2 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20Slide%201.pdf)
+
 ## Sprint 3 . Implementação
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
