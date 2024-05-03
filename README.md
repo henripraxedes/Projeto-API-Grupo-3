@@ -16,7 +16,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+O Projeto Integrador (APO) é uma iniciativa que prioriza o desenvolvimento de competências e fundamentos educacionais. Com base nesses princípios, o objetivo do projeto é mapear as possíveis cargas para movimentação no Aeroporto de São José dos Campos, utilizando dados de importação e exportação dos municípios da Região Metropolitana do Vale do Paraíba (RMVALE) e do Litoral Norte.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
