@@ -111,7 +111,7 @@ Requisitos não funcionais
       
 # Apresentação das Sprints
 #### Apresentação da Sprint 1 [(clique aqui)](https://github.com/henripraxedes/Projeto-API-Grupo-3/blob/main/slides%20sprint%201/API-Projeto-1a-Sprint.pdf.pdf)
-#### Apresentação da Sprint 2 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20Slide%201.pdf)
+#### Apresentação da Sprint 2 [(clique aqui)]()
 
 ## Sprint 3 . Implementação
 - [x] Defina o propósito do template;
