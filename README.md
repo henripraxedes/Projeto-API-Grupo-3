@@ -95,7 +95,7 @@ Requisitos não funcionais
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
-- [x] Escolha cores e fontes;
+- [ ] Escolha cores e fontes;
 - [x] Desenvolva o design;
 - [ ] Teste e revise;
 - [ ] Documente instruções de uso;
