@@ -92,22 +92,20 @@ Requisitos não funcionais
 
 
 ## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Criação do github de todos os membros;
+- [x] Estrturação do projeto;
+- [x] estruturação do Jira;
+- [x] Pesquisas para o projeto;
+- [ ] Preenchiemtno do Jira e do Github;
+- [ ] Revisão da atividade de todos os membros;
+- [ ] Documentação do Projeto;
+- [ ] Revisão final e entrega;
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+- [ ] Converção de dados do Power BI;
+- [ ] Identificar principais produtos exportados na RM Vale;
+- [ ] Documentação e relatório da sprint 2;
+
       
 # Apresentação das Sprints
 #### Apresentação da Sprint 1 [(clique aqui)](https://github.com/henripraxedes/Projeto-API-Grupo-3/blob/main/slides%20sprint%201/API-Projeto-1a-Sprint.pdf.pdf)
