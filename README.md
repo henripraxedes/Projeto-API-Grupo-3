@@ -70,7 +70,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 Requisitos funcionais 
 - Conteúdo da apresentação   
 - Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
+- Experiência do usuário ao oferecer algo mais
 
   
 Requisitos não funcionais
