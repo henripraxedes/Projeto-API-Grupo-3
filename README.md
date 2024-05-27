@@ -97,14 +97,14 @@ Requisitos não funcionais
 - [x] estruturação do Jira;
 - [x] Pesquisas para o projeto;
 - [ ] Preenchiemtno do Jira e do Github;
-- [ ] Revisão da atividade de todos os membros;
-- [ ] Documentação do Projeto;
-- [ ] Revisão final e entrega;
+- [x] Revisão da atividade de todos os membros;
+- [x] Documentação do Projeto;
+- [x] Revisão final e entrega;
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Converção de dados do Power BI;
-- [ ] Identificar principais produtos exportados na RM Vale;
-- [ ] Documentação e relatório da sprint 2;
+- [x] Converção de dados do Power BI;
+- [x] Identificar principais produtos exportados na RM Vale;
+- [x] Documentação e relatório da sprint 2;
 
       
 # Apresentação das Sprints
