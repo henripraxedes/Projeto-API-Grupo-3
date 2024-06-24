@@ -54,10 +54,10 @@ Este projeto tem como objetivo ensinar a utilizar a plataforma GitHub, visando:
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 11/03/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | 15/04/2024 | concluido| [Ver Relatório](https://github.com/henripraxedes/Projeto-API-Grupo-3/blob/main/relatorios/relatorio%20aeroporto%20sjc%20logistica.docx)  
-|02|  06/05/2024| concluido |[Ver Relatório](https://github.com/henripraxedes/Projeto-API-Grupo-3/blob/main/relatorio%20enzo%20sprint%202.docx) | 
-|03| 27/05/2024 | concluido|[Ver Relatório](https://github.com/henripraxedes/Projeto-API-Grupo-3/tree/main/Sprint%203) | 
-|04| 17/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|01 | 15/04/2024 | concluído| [Ver Relatório](https://github.com/henripraxedes/Projeto-API-Grupo-3/blob/main/relatorios/relatorio%20aeroporto%20sjc%20logistica.docx)  
+|02|  06/05/2024| concluído |[Ver Relatório](https://github.com/henripraxedes/Projeto-API-Grupo-3/blob/main/relatorio%20enzo%20sprint%202.docx) | 
+|03| 27/05/2024 | concluído|[Ver Relatório](https://github.com/henripraxedes/Projeto-API-Grupo-3/tree/main/Sprint%203) | 
+|04| 17/06/2024 | concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 ## Cronograma
