@@ -106,11 +106,6 @@ Requisitos não funcionais
 - [x] Identificar principais produtos exportados na RM Vale;
 - [x] Documentação e relatório da sprint 2;
 
-      
-# Apresentação das Sprints
-#### Apresentação da Sprint 1 [(clique aqui)](https://github.com/henripraxedes/Projeto-API-Grupo-3/blob/main/slides%20sprint%201/API-Projeto-1a-Sprint.pdf.pdf)
-#### Apresentação da Sprint 2 [(clique aqui)]()
-
 ## Sprint 3 . Implementação
 - [x] Adicionar filtros no Dashboard para selecionar por município da Região Metropolitana do Vale, por carga, por volume e por valor FOB.
 - [x] Elaborar um relatório detalhado documentando todo o progresso alcançado na 3ª Sprint e atualizar o repositório no GitHub.
@@ -120,6 +115,10 @@ Requisitos não funcionais
 - [x] Atualizar pesquisas, GitHub e Jira.
 - [x] Elaborar um relatório detalhado documentando todo o progresso alcançado na 4ª Sprint e atualizar o repositório no GitHub.
 - [x] Atualizar, revisar, corrigir e implementar novas funções e análises conforme necessário.
+
+# Apresentação das Sprints
+#### Apresentação da Sprint 1 [(clique aqui)](https://github.com/henripraxedes/Projeto-API-Grupo-3/blob/main/slides%20sprint%201/API-Projeto-1a-Sprint.pdf.pdf)
+#### Apresentação da Sprint 2 [(clique aqui)]()
 
 # Competências desenvolvidas
 
