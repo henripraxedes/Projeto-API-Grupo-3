@@ -112,27 +112,15 @@ Requisitos não funcionais
 #### Apresentação da Sprint 2 [(clique aqui)]()
 
 ## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
+- [x] Adicionar filtros no Dashboard para selecionar por município da Região Metropolitana do Vale, por carga, por volume e por valor FOB.
+- [x] Elaborar um relatório detalhado documentando todo o progresso alcançado na 3ª Sprint e atualizar o repositório no GitHub.
+- [x] Realizar pesquisa para identificar quais cargas podem ser transportadas por meio de aeroporto.
+   
 ## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
+- [x] Atualizar pesquisas, GitHub e Jira.
+- [x] Elaborar um relatório detalhado documentando todo o progresso alcançado na 4ª Sprint e atualizar o repositório no GitHub.
+- [x] Atualizar, revisar, corrigir e implementar novas funções e análises conforme necessário.
+
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
